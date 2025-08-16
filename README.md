@@ -19,7 +19,7 @@ A Python-based interactive relationship visualizer for Valorant agents, represen
 | Yellow | Neutral          |  
 | Pink   | Romantic         |  
 
-![Logo](assets/valorant_graph.png)
+![Logo](valorant_graph.png)
 
 ## Usage  
 Run the script and use the following commands:  
